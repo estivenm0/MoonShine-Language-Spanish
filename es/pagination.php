@@ -19,6 +19,5 @@ return [
     'results' => 'resultados',
     'previous' => '&laquo; Anterior',
     'next' => 'Siguiente &raquo;',
-
-
+    
 ];

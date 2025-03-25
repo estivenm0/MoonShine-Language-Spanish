@@ -31,7 +31,7 @@ return [
     'loading' => 'Cargando ...',
     'notfound' => 'Registros no encontrados',
     'collapse_menu' => 'Colapsar menú',
-    '404' => 'Houston, tenemos un problema: página no encontrada',
+    '404' => 'Houston, tenemos un problema pagina no encontrada',
     'copied' => '¡Copiado!',
     'notifications' => [
         'title' => 'Notificaciones',
@@ -48,7 +48,6 @@ return [
         'username' => 'Nombre de usuario',
         'email' => 'Correo electrónico',
         'password' => 'Contraseña',
-        'or_socials' => 'o',
     ],
     'resource' => [
         'system' => 'Sistema',
@@ -65,9 +64,6 @@ return [
 
         'main_information' => 'Información principal',
         'change_password' => 'Cambiar contraseña',
-
-        'link_socialite' => 'Vincular cuenta',
-        'linked_socialite' => 'Cuenta vinculada',
 
         'queued' => 'En cola',
 
